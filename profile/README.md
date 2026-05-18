@@ -8,4 +8,4 @@
 ## repositories
 + [Simple Auth](https://github.com/AAA-voc-pifa/simple-auth): 独立的用户、会话服务
 + [@ppz/ppz](https://github.com/AAA-voc-pifa/util): js/ts 工具集
-+ [Edge 语音合成](https://github.com/AAA-voc-pifa/edge-tts-server)
++ [edge-tts-server](https://github.com/AAA-voc-pifa/edge-tts-server): Edge 语音合成
